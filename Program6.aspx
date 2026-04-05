@@ -1,3 +1,5 @@
+//Before run this code create new folder named Uploads in vs code
+
 <%@ Page Language="C#" AutoEventWireup="true" 
     CodeBehind="Program6.aspx.cs" 
     Inherits="program6.Program6" %>
