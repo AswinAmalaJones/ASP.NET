@@ -1,0 +1,11 @@
+USE SchoolDB
+
+CREATE TABLE Student (
+    StudentID INT IDENTITY(1,1) PRIMARY KEY,
+    Name VARCHAR(50),
+    Age INT
+)
+
+INSERT INTO Student VALUES ('Anjali', 20)
+INSERT INTO Student VALUES ('Ramesh', 21)
+INSERT INTO Student VALUES ('Priya', 19)
