@@ -1,0 +1,5 @@
+<connectionStrings>
+		<add name="SchoolDBConnectionString"
+			 connectionString="Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=SchoolDB;Integrated Security=True"
+			 providerName="System.Data.SqlClient" />
+	</connectionStrings>
